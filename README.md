@@ -22,7 +22,7 @@
 - 💡 I love exploring new technologies and building scalable, modern web applications.
 - 🛠️ Currently focusing heavily on **Next.js (App Router)** and **Progressive Web Apps (PWA)**.
 - 🎵 Recently worked on **Alone Audio Studio**, integrating AI-powered features.
-- 📫 How to reach me: **[මෙහි ඔයාගේ Email එක දෙන්න]**
+- 📫 How to reach me: **[pansiluakarshana0@gmail.com]**
 
 ---
 
