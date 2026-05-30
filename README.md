@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--<h1 align="center">Hi there, I'm Akarshana! <img src="https://media.giphy.com/media/mGcnDiX3h8wW61T2Y4/giphy.gif" width="35" /></h1>
 
